@@ -1,0 +1,36 @@
+{
+  "name": "nodejs_referral_system",
+  "version": "1.0.0",
+  "description": "a nodejs server application to track referrals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkithVijay/nodejs_referral_system.git"
+  },
+  "keywords": [
+    "nodejs",
+    "referrall",
+    "nodejs",
+    "referrall",
+    "refferral",
+    "node",
+    "js",
+    "node",
+    "rewards"
+  ],
+  "author": "vijay ankith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkithVijay/nodejs_referral_system/issues"
+  },
+  "homepage": "https://github.com/AnkithVijay/nodejs_referral_system#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "moment": "^2.29.4"
+  }
+}
